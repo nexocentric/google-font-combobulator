@@ -3,7 +3,34 @@
 ---
 @charset "utf-8";
 
-// @import "foundation";
+@import "foundation";
 @import "normalize";
 
 //you can start adding your customized styles here after choosing what foundation components you need from the foundation import
+.header-wrapper {
+	background: #fffeff;
+}
+.login-wrapper {
+	background: #fff3ff;
+}
+.hero-wrapper {
+	background: #ff5fff;
+}
+.info-wrapper {
+	background: #ff6fff;
+}
+.features-wrapper {
+	background: #ff8fff;
+}
+.news-wrapper {
+	background: #ff9fff;
+}
+.footer-wrapper {
+	background: #ff2fff;
+}
+.social-wrapper {
+	background: #0effff;
+}
+.about-wrapper {
+	background: #e0ffff;
+}
