@@ -5,32 +5,60 @@
 
 @import "foundation";
 @import "normalize";
+@import "named-colors";
+
+
+// $amaranth: #e52b50;
+// $amaranth-pink: #f19cbb;
+// $amaranth-purple: #ab274f;
+// $amazon: #3b7a57;
+// $amber: #ffbf00;
+// $amber-sae-ece: #ff7e00;
+// $american-rose: #ff033e;
+// $amethyst: #9966cc;
+// $android-green: #a4c639;
+// $anti-flash-white: #f2f3f4;
+// $antique-brass: #cd9575;
+// $antique-bronze: #665d1e;
+// $antique-fuchsia: #915c83;
+// $antique-ruby: #841b2d;
+// $antique-white: #faebd7;
+// $ao-english: #008000;
+// $apple-green: #8db600;
+// $apricot: #fbceb1;
+// $aqua: #00ffff;
+// $aquamarine: #7fffd4;
+// $army-green: #4b5320;
+// $arsenic: #3b444b;
+// $artichoke: #8f9779;
+// $arylide-yellow: #e9d66b;
+// $ash-grey: #b2beb5;
 
 //you can start adding your customized styles here after choosing what foundation components you need from the foundation import
 .header-wrapper {
-	background: #fffeff;
+	background: $aqua;
 }
 .login-wrapper {
-	background: #fff3ff;
+	background: $amaranth;
 }
 .hero-wrapper {
-	background: #ff5fff;
+	background: $amber;
 }
 .info-wrapper {
-	background: #ff6fff;
+	background: $apricot;
 }
 .features-wrapper {
-	background: #ff8fff;
+	background: $army-green;
 }
 .news-wrapper {
-	background: #ff9fff;
+	background: $ash-grey;
 }
 .footer-wrapper {
-	background: #ff2fff;
+	background: $arylide-yellow;
 }
 .social-wrapper {
-	background: #0effff;
+	background: $ao-english;
 }
 .about-wrapper {
-	background: #e0ffff;
+	background: $american-rose;
 }
